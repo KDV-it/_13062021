@@ -1,0 +1,42 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+.box {
+    box-sizing: border-box;
+    padding: 30px;
+    width: 100%;
+    height: 500px;
+    font-size: 60px;
+}
+
+.mid {
+    float: left;
+    width: 49%;
+    height: 100%;
+    text-align: center;
+}
+
+.left {
+    border: 1px solid rgb(0,0,0);
+}
+
+.times {
+    padding-top: 50px;
+    margin-bottom: 15px;
+}
+
+.btns {
+    margin:auto;
+}
+
+button {
+    width: auto;
+    height: auto;
+    border-radius: 4px;
+    border: 4px radius #000 ;
+    background-color: #fff;
+}
+.btn {
+    font-size: 15px;
+    margin: 5px 20px;
+}
